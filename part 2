@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head><title>Part2 me domen</title></head>
+
+<body>
+    <h1> HELLO :)</h1>
+
+    <!--form jon si ni dokumet ku permban te dhenat -->
+     <form >
+        Emrin:<br>
+        <input type="text" name="emri">
+        <br>
+        Mbiemri:<br>
+        <input type="text" name="mbiemri">
+        <br>
+        <br>
+        <input type="submit" value="dergo">
+        <br>
+     </form>
+     <br>
+     <h1>Forma 2</h1>
+
+     <form action="Pllasha">
+        Mosha jote <br>
+        <label> 19</label>
+        <input type="radio" name="mosha" id="19">
+        <label> 26</label>
+        <input type="radio" name="mosha" id="26">
+        <label> 70</label>
+        <input type="radio" name="mosha" id="70">
+
+     </form>
+     <!--
+         Mos harro label eshte sikur shqip labela
+         dmth si titull.
+         tani vjen input
+         Kena llooje te ndryshme te inputit like text, password, radiocheck box etj
+         hini kqyrni ne yt(youtube)
+         Poashtu action e msoni ma vone 
+         edhe mos harroni mi jep name edhe id tek input
+       -->
+
+
+</body>
+
+</html>
