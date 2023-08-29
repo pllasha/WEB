@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<head> <title> Ushtrime per provim </title></head>
+
+
+<body> 
+    <h1>Ushtrime per Dominikun </h1> <!--h1 titulli me i madhe -->
+    <h2> Don't give up se bahet mire :)</h2>
+    <p> 
+        Shiu binte ne dritaren time,
+        syt e mi shikonin gjethet tek sa mbanin pikat
+        e shiut, me dukej sikur zemra ime qe mbante ndjenjat
+        per vajzen qe doja dhe si qdo histori dashurie 
+        ajo nuk me donte.
+        -Dominik Pllashniku 
+    </p> <!--Ky eshte nje paragraf -->
+
+    <pre>
+        Shikoni tani qe paragrafi
+        shkon drejt dhe nese e bon enter nuk 
+        thyhet teksti por vetem vazhdon 
+        ne pafundesi. Me pre ndahet teksti.
+        
+    </pre>
+    <!--Pre e tregon tekstin ekzakt si ne Html-->
+
+    <p> H<sub>2</sub>O</p> <!--sub e zvogelon tekstin -->
+    <p> Dominik Pllashniku <sup> Eshte tu kalu me Elsen</sup></p>
+    <!--sup e ngrit tekstin larte -->
+
+   <ol>
+    <li>Elsa </li>
+    <li>Nuk </li>
+    <li>Me </li>
+    <li>don ose me don</li>
+   </ol>
+   <!--Ol it means order list dmth me ren -->
+   <!--Li it means list item -->
+
+   <ul>
+    <li>Qka po mendon </li>
+    <li>A me don Elsa  </li>
+   </ul>
+   <!-- UL it means unorder list -->
+
+   <dl>
+    <dt>Pllasha</dt>
+    <dd> jeta e ti </dd>
+    <dt>Dominik  </dt>
+    <dd> Jeta e pllashes</dd>
+   </dl>
+   <!-- mos harro dl dt dd , dl ja nis , dl si titul , dd qka man mrena -->
+
+   <table border="1">
+    <thead> 
+        <tr>
+            <th>Emri </th>
+            <th>Zemren <3</th>
+            <th>Zemren <\3 </th>
+        </tr>
+        <tbody>
+            <tr>
+                <th>Elsa</th>
+                <th>PO</th>
+                <th>JO</th>
+            </tr>
+            <tr>
+                <th>Adea</th>
+                <th>Jo</th>
+                <th>PO</th>
+            </tr>
+            <tr>
+                <th>Melisa</th>
+                <th>JO</th>
+                <th>PO</th>
+            </tr>
+            <tr>
+                <th>Ereza +99</th>
+                <th>PO</th>
+                <th>Joooo</th>
+            </tr>
+            <tr>
+                <th>Doruntina</th>
+                <th>PO</th>
+                <th>JO</th>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="3">I don't love</th>
+            </tr>
+        </tfoot>
+    </thead>
+   </table>
+   <!-- Mos harro me kriju tablen niher, tani me kriju kryt. MAJE MEND QITA
+      tr(table row, i krijon rreshtat)
+      th(th idk ama daten e shtin mrena)
+       tani e kini trupin tbody
+       edhe ne fund tfoot 
+       mos harro mi ba bashk rreshtat rowspan
+       mi ba bashk kolonat colspan -->
+
+   <img src="https://www.ourmindfullife.com/wp-content/uploads/2021/09/quotes-about-cheating-and-lying-11.jpg.webp" alt="Dominiku heart"> </img>
+   <a href="https://www.instagram.com/dominikpllashniku/" > Dominik Pllashniku aka Pllasha</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
