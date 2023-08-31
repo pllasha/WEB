@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+    <title>Pllasha 3</title>
+    <!--Per mu konektu me css e duket me ba kete komand ma poshte
+    sepse pe lidhum nga jasht dmth css e kemi ne oborr tash me qita 
+    pe thirrum mrena ne shpi -->
+    <link rel="stylesheet" href="part3.css">
+</head>
+
+<body>
+    <!-- Yeah css-->
+    <h1>Sot kena me msu css :)</h1>
+    <pre>Dihet qe css mund te kete tri lloje te lidhjes:</pre>
+    <ol>
+        <li>Direkt</li>
+        <li>External</li>
+        <li>Style(jasht trupit)</li>
+    </ol>
+
+    <p>
+        Dominiku tani nuk eshte duke u ndjer mire sepse i ka 6 provime mi 
+        kry dhe 3 i ka ne nje jave dhe 3 tjera ne ni jave tjeter, plus kurvat sjon tum lan rahat
+        qfare te bej, God hepl me.
+    </p>
+
+    <div id="baba">
+        <div id="femiju1">
+            <p>Kutia nje</p>
+        </div>
+        <div id="femiju2">
+            <p>kutia 2</p>
+        </div>
+        <div id="femiju3">
+            <p>kutia 3</p>
+        </div>
+        <div id="femiju4">
+            <p>kutia 4</p>
+        </div>
+
+    </div>
+    <!-- Mos harro klasat jon me "." ndersa id me "#"-->
+
+  
+   
+</body>
+</html>
