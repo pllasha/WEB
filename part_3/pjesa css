@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    color: darkblue;
+    font-family:'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+pre{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ol{
+    list-style-type: disc;
+    
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:center
+   
+}
+
+#baba{
+    border: 5px solid black;
+    height: 60px;
+   
+
+
+}
+#femiju2{
+    border: 5px solid sandybrown;
+    float: left;
+    width: 20%;
+
+}
+
+#femiju3{
+    border:solid maroon 5px;
+    float:right;
+    width:20%
+}
+#femiju4{
+    border:solid 5px azure;
+    float:left;
+    width: 30%;
+}
+#femiju1{
+    border: 5px solid burlywood;
+    float:right;
+    width: 20%;
+    
+}
