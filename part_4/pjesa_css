@@ -1,0 +1,67 @@
+/* styles.css */
+
+.container {
+    width: 220px;
+    height: 220px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.box {
+    background-color: #3498db;
+    text-align: center;
+    line-height: 100px;
+    color: #fff;
+    font-size: 18px;
+}
+
+
+.box:nth-child(1) {
+    background-color: #e74c3c;
+}
+
+.box:nth-child(2) {
+    background-color: #2ecc71;
+}
+
+.box:nth-child(3) {
+    background-color: #f1c40f;
+}
+
+.box:nth-child(4) {
+    background-color: #3498db;
+}
+
+h1{
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    color: #3498db;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+
+p{
+    font-family: 'Courier New', monospace;
+            font-size: 18px;
+            line-height: 1.6;
+            color: #333;
+            text-align: justify;
+            background-color: #f7f7f7;
+            padding: 20px;
+            border: 2px solid #999;
+            box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+body{
+    background-image: url(https://image.shutterstock.com/image-illustration/military-robot-destroyed-city-future-260nw-1207217143.jpg);
+    background-size: cover; /* Adjust to your needs */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
