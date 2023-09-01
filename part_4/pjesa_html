@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="stilli.css">
+        <title>Selectors Example</title>
+    </head>
+    <body>
+
+        <h1> Hello djem ( jo qika )</h1>
+        <p>Kemi disa lloje te selektorve per ma leht i kini poshte ne qat pdf qe kom publiku</p>
+
+
+        <div class="container">
+            <div class="box">kutia 1</div>
+            <div class="box">kutia  2</div>
+            <div class="box">kutia 3</div>
+            <div class="box">kutia 4</div>
+        </div>
+        <!-- 
+            Mos harro klasa => .
+            Mos harro id => #
+            tjerat i kini ne pdf 
+        -->
+        
+      
+      
+    </body>
+ </html>
