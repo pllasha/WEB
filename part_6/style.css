@@ -1,0 +1,35 @@
+
+body {
+    background-color: #ffc0cb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* E aplikojna per krejt fushat mrena */
+form {
+    background-color: white; 
+    border: 2px solid black;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px; /* i bone tehet ma te bute  */
+}
+
+/* labelen e nrequm pak */
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+/* stile per fushat mrena  */
+input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
